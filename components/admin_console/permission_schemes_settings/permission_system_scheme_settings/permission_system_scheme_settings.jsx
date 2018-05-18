@@ -418,7 +418,7 @@ export default class PermissionSystemSchemeSettings extends React.Component {
                     </Modal.Footer>
                 </Modal>
 
-            </div >
+            </div>
         );
     };
 }
